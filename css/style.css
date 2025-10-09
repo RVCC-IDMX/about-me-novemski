@@ -3,11 +3,12 @@
 body {
 background-color:#554161;
 font-family: "Quicksand", sans-serif;
+font-size:20px
 }
 
 h1, h2, h3, h4, h5, h6{
     font-family: "BBH Sans Hegarty", sans-serif;
-    font-size: 25pt;
+    font-size: 30pt;
 }
 
 header, p{
@@ -20,7 +21,7 @@ header img{
 }
 
 #hero img {
-    width: 270px;
+    width: 220px;
     max-width: 100%;
 }
 #hero, footer {
