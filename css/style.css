@@ -50,3 +50,15 @@ header img{
 #gallery h2{
     text-align: center;
 }
+
+#lit h2{
+    text-align: center;
+}
+
+#lit {
+    border:3px solid #4EDB3B
+}
+
+#lit div{
+    margin:0 auto;
+}
