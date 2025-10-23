@@ -34,3 +34,7 @@ header img{
 #bio {
     text-align:center;
 }
+
+#hobbies ul li:nth-child(odd) {
+    color: #3bdb86;
+}
