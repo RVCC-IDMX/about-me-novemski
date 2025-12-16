@@ -39,6 +39,7 @@ header img{
     color: #3bdb86;
 }
 
+
 #gallery {
     border:3px solid #4EDB3B
 }
@@ -61,4 +62,10 @@ header img{
 
 #lit div{
     margin:0 auto;
+}
+#video {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    aspect-ratio: auto;
 }
