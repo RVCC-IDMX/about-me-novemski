@@ -69,3 +69,6 @@ header img{
     margin-bottom: 20px;
     aspect-ratio: auto;
 }
+#formElements {
+    display:grid;
+}
