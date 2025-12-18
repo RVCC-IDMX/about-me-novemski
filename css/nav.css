@@ -35,7 +35,7 @@ text-align:center;
 .logo {
     display: flex;
     align-items: center;
-
+gap: 20px;
 
 
 }
@@ -43,6 +43,8 @@ text-align:center;
     width: 60px;
     height: auto;
     max-width: 100%;
+
+
 }
 .logo h1 {
     font-size: 1.2em;
