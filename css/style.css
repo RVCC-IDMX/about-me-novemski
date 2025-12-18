@@ -192,3 +192,30 @@ section {
 
     padding: 5px;
 }
+
+.hover-gallery {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.hover-item {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.hover-item img {
+    width: 200px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    display: block;
+}
+
+.hover-item img:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+#lit h3{
+    text-align: center
+}

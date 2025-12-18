@@ -27,7 +27,7 @@ Throughout this project, I developed the following skills:
 
 ## Citations
 - Images sourced from personal photos and [Avataaars Generator](https://getavataaars.com/) for the avatar.
-- Some literature excerpts taken from Bram Stoker’s *Dracula*.
+- Information for Hover Effects section was found on https://www.b12.io/glossary-of-web-design-terms/hover-effects/, https://lottiefiles.com/blog/design-inspiration/deep-dive-into-hover-effects, and https://www.pumpkinwebdesign.com/web-design-manchester/advantages-of-image-hover-effects/.
 
 ## License
 All content and code in this project are **copyright © 2025 Yahor Zaitsau**.
